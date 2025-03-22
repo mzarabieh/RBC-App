@@ -1,7 +1,5 @@
 # RBC-Financial-App
 
-# McGill Exam Scheduler
-
 This project is a comprehensive financial literacy platform designed for York University students, particularly newcomers to Canada. It leverages a Supabase database for data storage, a Node.js backend to handle server-side logic, and a ReactJS frontend for an intuitive user experience.
 ## Visit The Site
 
