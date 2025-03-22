@@ -5,9 +5,9 @@ This project is a comprehensive financial literacy platform designed for York Un
 ## Features
 - **Supabase Database:** Stores user data, financial information, and learning progress securely.
 
--**Node.js Backend:** Provides a robust API to manage user interactions, financial tools, and learning modules. The backend is hosted on a cloud platform.
+- **Node.js Backend:** Provides a robust API to manage user interactions, financial tools, and learning modules. The backend is hosted on a cloud platform.
 
--**ReactJS Frontend:** A user-friendly interface for accessing interactive learning modules, financial tools, and community features. The frontend is hosted on a modern web platform.
+- **ReactJS Frontend:** A user-friendly interface for accessing interactive learning modules, financial tools, and community features. The frontend is hosted on a modern web platform.
 
 ## Prerequisites
 
